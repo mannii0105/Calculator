@@ -22,4 +22,4 @@ DOM manipulation using JavaScript
 Styling with CSS
 Git and GitHub basics (repository creation, commits, push, version control)
 
-git clone: [text](http://127.0.0.1:5500/index.html)
+git clone: [Click here to see demo](http://127.0.0.1:5500/index.html)
