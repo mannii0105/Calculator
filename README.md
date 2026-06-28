@@ -22,5 +22,3 @@ DOM manipulation using JavaScript
 Styling with CSS
 Git and GitHub basics (repository creation, commits, push, version control)
 
-
-
